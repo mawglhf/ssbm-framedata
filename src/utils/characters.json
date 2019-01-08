@@ -1,0 +1,1563 @@
+{
+  "Bowser": {
+    "name": "Bowser",
+    "thumbnail": "Bowser.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Captain Falcon": {
+    "name": "Captain Falcon",
+    "thumbnail": "Captain Falcon.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Donkey Kong": {
+    "name": "Donkey Kong",
+    "path": "DonkeyKong",
+    "thumbnail": "DonkeyKong.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Dr Mario": {
+    "name": "Dr Mario",
+    "thumbnail": "DrMario.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Falco": {
+    "name": "Falco",
+    "thumbnail": "Falco.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Fox": {
+    "name": "Fox",
+    "thumbnail": "Fox.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Ganondorf": {
+    "name": "Ganondorf",
+    "thumbnail": "Ganondorf.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Ice Climbers": {
+    "name": "Ice Climbers",
+    "thumbnail": "IceClimbers.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Jigglypuff": {
+    "name": "Jigglypuff",
+    "thumbnail": "Jigglypuff.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Kirby": {
+    "name": "Kirby",
+    "thumbnail": "Kirby.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Link": {
+    "name": "Link",
+    "thumbnail": "Link.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Luigi": {
+    "name": "Luigi",
+    "thumbnail": "Luigi.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Mario": {
+    "name": "Mario",
+    "thumbnail": "Mario.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Marth": {
+    "name": "Marth",
+    "thumbnail": "Marth.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Mewtwo": {
+    "name": "Mewtwo",
+    "thumbnail": "Mewtwo.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Game & Watch": {
+    "name": "Game & Watch",
+    "thumbnail": "GameWatch.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Ness": {
+    "name": "Ness",
+    "thumbnail": "Ness.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Peach": {
+    "name": "Peach",
+    "thumbnail": "Peach.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Pichu": {
+    "name": "Pichu",
+    "thumbnail": "Pichu.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Pikachu": {
+    "name": "Pikachu",
+    "thumbnail": "Pikachu.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Roy": {
+    "name": "Roy",
+    "thumbnail": "Roy.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Samus": {
+    "name": "Samus",
+    "thumbnail": "Samus.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Sheik": {
+    "name": "Sheik",
+    "thumbnail": "Sheik.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Yoshi": {
+    "name": "Yoshi",
+    "thumbnail": "Yoshi.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Young Link": {
+    "name": "Young Link",
+    "thumbnail": "YoungLink.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  },
+  "Zelda": {
+    "name": "Zelda",
+    "thumbnail": "Zelda.jpg",
+    "symbol": "",
+    "highquality": "",
+    "palette": {
+      "default": {
+        "head": "",
+        "full": ""
+      },
+      "green": {
+        "head": "",
+        "full": ""
+      },
+      "red": {
+        "head": "",
+        "full": ""
+      },
+      "blue": {
+        "head": "",
+        "full": ""
+      },
+      "black": {
+        "head": "",
+        "full": ""
+      },
+      "indigo": {
+        "head": "",
+        "full": ""
+      },
+      "white": {
+        "head": "",
+        "full": ""
+      },
+      "brown": {
+        "head": "",
+        "full": ""
+      },
+      "purple": {
+        "head": "",
+        "full": ""
+      },
+      "orange": {
+        "head": "",
+        "full": ""
+      },
+      "yellow": {
+        "head": "",
+        "full": ""
+      },
+      "pink": {
+        "head": "",
+        "full": ""
+      },
+      "cyan": {
+        "head": "",
+        "full": ""
+      }
+    }
+  }
+}
