@@ -32,7 +32,6 @@ class App extends Component {
     return (
       <div className="App">
         <div className="container">
-          <h1>This is the App Component</h1>
           <CharacterSelect
             characters={thumbnailsArr}
             selectCharacter={this.selectCharacter}
@@ -40,7 +39,7 @@ class App extends Component {
           {this.state.characterData ? (
             <CharacterPage characterData={this.state.characterData} />
           ) : (
-            <h1> No Character has been selected </h1>
+            <h3 style={{ textAlign: "center" }}> Select a Character! </h3>
           )}
         </div>
       </div>

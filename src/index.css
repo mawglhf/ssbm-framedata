@@ -1947,6 +1947,7 @@ blockquote code {
 }
 
 .charSelectCell {
+  display: flex;
   flex: 0 1 auto;
   height: 120px;
   width: 100px;
@@ -1968,19 +1969,14 @@ blockquote code {
   background-blend-mode: multiply;
 }
 
-.charSelectCell span {
-  font-size: 17px;
-  line-height: 110px;
+.charSelectCell div {
   color: white;
   opacity: 0;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
-  font-weight: bold;
+  margin: auto;
+  margin-bottom: 0;
 }
-.charSelectCell:hover span {
+.charSelectCell:hover div {
   opacity: 1;
-}
-
-.App {
-  cursor: url("./assets/portraits/Hand.png") 32 0, auto;
 }

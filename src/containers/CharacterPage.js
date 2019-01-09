@@ -13,7 +13,7 @@ class CharacterPage extends Component {
   render() {
     return (
       <div className="characterPage">
-        <h1>This is the Character Page</h1>
+        <h1>Character Page</h1>
         <CharacterHeader characterData={this.props.characterData} />
       </div>
     );

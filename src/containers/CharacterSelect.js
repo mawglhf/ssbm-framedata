@@ -18,7 +18,7 @@ class CharacterSelect extends Component {
           style={{ backgroundImage: `url(${char[1]})` }}
           onClick={() => this.props.selectCharacter(char[0])}
         >
-          <span>{char[0]}</span>
+          <div>{char[0]}</div>
         </div>
       );
     });

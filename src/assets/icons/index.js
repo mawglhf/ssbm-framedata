@@ -25,7 +25,7 @@ import Yoshi from "./Yoshi.png";
 import YoungLink from "./YoungLink.png";
 import Zelda from "./Zelda.png";
 
-const symbols = {
+const icons = {
   Bowser,
   "Captain Falcon": CaptainFalcon,
   "Donkey Kong": DonkeyKong,
@@ -54,5 +54,5 @@ const symbols = {
   Zelda
 };
 
-export const symbolsArr = Object.entries(symbols);
-export default symbols;
+export const iconsArr = Object.entries(icons);
+export default icons;
