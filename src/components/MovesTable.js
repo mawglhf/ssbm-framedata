@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import ReactTable from "react-table";
 
+import SubTable from "./SubTable";
+
 export default class MovesTable extends Component {
   render() {
     const { moves } = this.props;
@@ -29,6 +31,7 @@ export default class MovesTable extends Component {
         id: "name",
         accessor: d => d.name,
         minWidth: 50,
+        headerStyle: { whiteSpace: "normal" },
         style: { whiteSpace: "normal", textAlign: "center" }
       },
       {
@@ -80,6 +83,9 @@ export default class MovesTable extends Component {
         showPagination={false}
         defaultPageSize={TESTMOVES.length}
         resizable={false}
+        SubComponent={row => {
+          return <SubTable />;
+        }}
       />
     );
   }

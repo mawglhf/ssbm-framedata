@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 
 import CharacterHeader from "../components/CharacterHeader";
 import MovesTable from "../components/MovesTable";
+
 class CharacterPage extends Component {
   constructor(props) {
     super(props);
