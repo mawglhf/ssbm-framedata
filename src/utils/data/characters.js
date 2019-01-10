@@ -1,6 +1,6 @@
-import thumbnails from "../assets/thumbnails";
-import icons from "../assets/icons";
-import portraits from "../assets/portraits";
+import thumbnails from "../../assets/thumbnails";
+import icons from "../../assets/icons";
+import portraits from "../../assets/portraits";
 
 const characters = {
   Bowser: {
