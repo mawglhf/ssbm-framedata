@@ -5,7 +5,6 @@ import SubTable from "./SubTable";
 
 export default class MovesTable extends Component {
   render() {
-    const { moves } = this.props;
     const TESTMOVES = [
       {
         name: "Down Tilt",
@@ -83,9 +82,7 @@ export default class MovesTable extends Component {
         showPagination={false}
         defaultPageSize={TESTMOVES.length}
         resizable={false}
-        SubComponent={row => {
-          return <SubTable />;
-        }}
+        SubComponent={row => <SubTable />}
       />
     );
   }
